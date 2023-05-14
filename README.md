@@ -1,1 +1,1 @@
-# Tailwind course
+# Simple Tailwing App
